@@ -1,0 +1,21 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import
+url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
+body {
+    font-family:'Open Sans', sans-serif;
+    color:#5a5a5a;
+}
+
+.card-img-top{
+	width: 120px;
+	align-self: center;
+}
+
+footer {
+    clear:both;
+	background-color:#1d1d1d; 
+	padding:20px;
+	color:#eee;
+}
